@@ -14,7 +14,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+Cool+Stuff+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Open+Source+Enthusiast+%E2%9C%A8;Building+Cool+Stuff+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-> 👋 **Hi, I'm Your Name** (He/Him) from Your City, Country.
+> 👋 **Hi, I'm Harshil Patel**  From Surat, India.
 
 <div align="left">
 
